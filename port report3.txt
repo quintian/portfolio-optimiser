@@ -1,0 +1,7 @@
+With the Optimal Solver of this application,
+        The Optimal Expected Return for your portfolio is 197.0%.
+        The Optimal Return Risk Ratio for your portfolio is 1.43.
+        The corresponding Optimal Weights suggested to take are 
+        ['-17.8%', '-182.23%', '300.04%'] 
+        for your assets: ['ms', 'gild', 'sq'].
+        
